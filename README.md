@@ -2,7 +2,7 @@
 
 **`Engenheira de Software`**
 
-Meu nome é Mariana Silva do Egito Moreira, sou estudante de Engenharia de Software na FIAP, atualmente no primeiro semestre. Tenho grande interesse em segurança de dados e no desenvolvimento de soluções tecnológicas inovadoras. Possuo experiência profissional no atendimento humanizado ao cliente, onde aprimorei habilidades de comunicação, empatia e negociação. Tenho muita vontade de aprender e contribuir, buscando oportunidades de estágio para aplicar meus conhecimentos em programação e design digital, expandir minha atuação na área de segurança e colaborar em projetos que gerem impacto positivo.
+Meu nome é Mariana Silva do Egito Moreira, sou estudante de Engenharia de Software na FIAP, atualmente no segundo semestre. Tenho grande interesse em segurança de dados e no desenvolvimento de soluções tecnológicas inovadoras. Possuo experiência profissional no atendimento humanizado ao cliente, onde aprimorei habilidades de comunicação, empatia e negociação. Tenho muita vontade de aprender e contribuir, buscando oportunidades de estágio para aplicar meus conhecimentos em programação e design digital, expandir minha atuação na área de segurança e colaborar em projetos que gerem impacto positivo.
 
 ---
 
