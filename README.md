@@ -1,8 +1,6 @@
 ## Hi, my name is Mariana Silva do Egito Moreira, and I'm a Software Engineering student!
 
 **`Software Engineering`**
-
-My name is Mariana Silva do Egito Moreira, and I'm a Software Engineering student at FIAP, currently in my second semester. I'm passionate about data security and developing innovative technology solutions. I have professional experience in humanized customer service, where I honed my communication, empathy, and negotiation skills. I'm eager to learn and contribute, seeking internship opportunities to apply my knowledge in programming and digital design, expand my security expertise, and collaborate on projects that generate a positive impact.
 ---
 
 ### 🤖 Linguagens e Tecnologias
