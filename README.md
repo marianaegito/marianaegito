@@ -1,6 +1,6 @@
 <h2 align="center">Mariana Egito</h2>
 <p align="center">
-Desenvolvedora em formação | Python • Automação • Dados • Engenharia de Software
+Desenvolvedora em formação | Engenharia de Software • Automação • Dados
 </p>
 
 ---
@@ -19,32 +19,52 @@ Desenvolvedora em formação | Python • Automação • Dados • Engenharia d
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
 <img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="35" />
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" />
 
 </div>
 
 ---
 
-## Foco Atual
+## Atualmente Estudando e Desenvolvendo
 
 - Automação de Processos (RPA) com Python  
-- Extração e Tratamento de Dados  
-- Análise com Pandas  
-- Integração com SQL  
-- Geração de Relatórios e Gráficos  
+- Extração de Dados  
+- Tratamento e Manipulação com Pandas  
+- Integração com Banco de Dados SQL  
+- Geração de Relatórios, Tabelas e Gráficos  
 - Desenvolvimento de Interfaces Gráficas  
+- Aplicações com Inteligência Artificial  
+
+---
+
+## Contato
+
+<p align="center">
+  <a href="mailto:marianaegito2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-silva-do-egito-moreira-887341355">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -57,7 +77,7 @@ Desenvolvedora em formação | Python • Automação • Dados • Engenharia d
   />
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaegito&theme=tokyonight&layout=compact&langs_count=8" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaegito&theme=tokyonight&layout=compact&langs_count=10" 
   />
 </p>
 
