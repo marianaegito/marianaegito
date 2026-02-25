@@ -41,19 +41,6 @@ Desenvolvedora em formação | Engenharia de Software • Automação • Dados
 
 </div>
 
----
-
-## Atualmente Estudando e Desenvolvendo
-
-- Automação de Processos (RPA) com Python  
-- Extração de Dados  
-- Tratamento e Manipulação com Pandas  
-- Integração com Banco de Dados SQL  
-- Geração de Relatórios, Tabelas e Gráficos  
-- Desenvolvimento de Interfaces Gráficas  
-- Aplicações com Inteligência Artificial  
-
----
 
 ## Contato
 
@@ -73,12 +60,13 @@ Desenvolvedora em formação | Engenharia de Software • Automação • Dados
 <p align="center">
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=marianaegito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=marianaegito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" 
   />
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaegito&theme=tokyonight&layout=compact&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaegito&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=1800" 
   />
+</p>
 </p>
 
 ---
